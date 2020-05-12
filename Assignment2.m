@@ -1,6 +1,5 @@
 % Script for Assignment #2, MECH 5304, CFD
 % Drafted by: Dan Duong
-% Carleton student number: 100960337, uO student number: 7533396  
 % Draft date: Feb. 26th, 2020
 % Last date modified: Mar. 10th, 2020
 % Assignment due: Mar. 18th, 2020
