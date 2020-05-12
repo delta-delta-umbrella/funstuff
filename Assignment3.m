@@ -1,15 +1,14 @@
 % Script for Assignment #3, MECH 5304, CFD
 % Drafted by: Dan Duong
-% Carleton student number: 100960337, uO student number: 7533396  
 % Draft date: Mar. 31st, 2020
 % Last date modified: Apr. 3rd, 2020
 % Assignment due: Apr. 8th, 2020
 
 % Progress to date:
 % Relatively complete
-% Really needs to be cleaned up; got lazy and started hand-coding (¬_¬)
+% Really needs to be cleaned up; got lazy and started hand-coding (Â¬_Â¬)
 
-% ???   (?°?°??? ???   ???
+% ???   (?Â°?Â°??? ???   ???
 
 % Assignment Description:
 % Transient 1D Heat conduction, using FVM methods and TDMA to solve
